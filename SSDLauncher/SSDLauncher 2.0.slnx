@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Library/Library.csproj" />
+  <Project Path="SSDLauncher 2.0/SSDLauncher 2.0.csproj" />
+</Solution>
