@@ -13,7 +13,7 @@ The default design for the library:
 You can customize every drive differently:
 ![Custom theme](docs/screenshot-theme.png)
 
-You can choose which executable you wish to launch:
+You can choose which executable you wish to launch:<br>
 ![Executable settings](docs/screenshot-settings.png)
 
 
