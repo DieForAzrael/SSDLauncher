@@ -7,11 +7,13 @@ cartridges, themed per-drive.
 
 ## Screenshots
 
--The default design for the library
+The default design for the library:
 ![Library view](docs/screenshot-library.png)
--You can customize every drive differently
+
+You can customize every drive differently:
 ![Custom theme](docs/screenshot-theme.png)
--You can choose which executable you wish to launch <br>
+
+You can choose which executable you wish to launch:
 ![Executable settings](docs/screenshot-settings.png)
 
 
@@ -70,8 +72,7 @@ E:\
 - Windows 10/11
 - [.NET 10 or later](https://dotnet.microsoft.com/) desktop runtime
 - An XInput-compatible controller (Xbox-type; most modern pads, including PS5
-  controllers on Windows) for gamepad navigation — optional, the app works fully with
-  mouse and keyboard otherwise
+  controllers on Windows) for gamepad navigation. This is optional; the app works fully with a mouse and keyboard otherwise.
 
 ## Project structure
 
@@ -98,11 +99,11 @@ itself — everything it reads comes from the connected drive at runtime.
 
 - In-app SSD setup wizard — configure a blank drive with the required folder structure directly from the app,
   then add games (with cover art) by copying them onto the drive from within the UI,
-  instead of hand-building `Config.csv`/`Games.csv` and folders manually.
+  instead of hand-building `Config.csv`/`Games.csv` and folders.
 - In-app theme designer — a visual editor for a drive's `Design/theme.json` and background image, instead of hand-editing files on the drive.
-- Support for multiple simultaneously connected drives/controllers
-- Held-direction auto-repeat for D-pad navigation
+- Support for multiple simultaneously connected drives/controllers.
+- Held-direction auto-repeat for D-pad navigation.
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+Distributed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). See [LICENSE](LICENSE) for details.
