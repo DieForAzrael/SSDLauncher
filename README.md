@@ -7,12 +7,13 @@ cartridges, themed per-drive.
 
 ## Screenshots
 
-*(Coming soon)*
-
-<!-- 
+-The default design for the library
 ![Library view](docs/screenshot-library.png)
+-You can customize every drive differently
+![Custom theme](docs/screenshot-theme.png)
+-You can choose which executable you wish to launch <br>
 ![Executable settings](docs/screenshot-settings.png)
--->
+
 
 ## Features
 
