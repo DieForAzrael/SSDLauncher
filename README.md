@@ -87,7 +87,7 @@ E:\
 ## Building
 
 1. Install Visual Studio 2026 (or later) with the **.NET desktop development** workload.
-2. Clone the repo and open `SSDLauncher.sln`.
+2. Clone the repo and open `SSDLauncher 2.0.slnx`.
 3. Build the solution — NuGet packages (`CommunityToolkit.Mvvm`,
    `Hardcodet.NotifyIcon.Wpf`) restore automatically.
 4. Set `SSDLauncher 2.0` as the startup project and run.
